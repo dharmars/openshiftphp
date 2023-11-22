@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>Dharma</h1>
-		<p><b>Openshift Batch Verizon New version </b></p>
+		<p><b>Openshift Batch Verizon New Version </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
