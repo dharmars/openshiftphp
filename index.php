@@ -1,12 +1,12 @@
 <html> 
 	<head> 
-	<title>Hakuna matata</title>
+	<title>PHP</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
 <body> 
-	<h1>Mayank MOdi</h1>
-		<p><b>Openshift Batch Verizon Final version </b></p>
+	<h1>Dharma</h1>
+		<p><b>Openshift Batch Verizon First version </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
